@@ -2,3 +2,4 @@
 datasets/
 runs/
 ./dota8.yaml
+__pycache__/
