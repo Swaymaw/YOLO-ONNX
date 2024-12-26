@@ -1,0 +1,13 @@
+[project]
+name = "yolo-onnx-exp"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ipykernel>=6.29.5",
+    "matplotlib>=3.10.0",
+    "onnxruntime>=1.20.1",
+    "opencv-python>=4.10.0.84",
+    "shapely>=2.0.6",
+]
