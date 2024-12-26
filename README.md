@@ -4,13 +4,13 @@ Our goal in this repo is to provide a standard library to run inference for vari
 
 ## Tasks
 
-### Pre/Post Processing 
+### 1 - Pre/Post Processing 
 - [x] Oriented Bouding Boxes
 - [ ] Detection 
 - [ ] Segmentation
 
-### Refactor 
+### 2 - Refactor 
 
-### Further Speed Boost 
-
-### MOJO? 
+### 3 - Further Speed Boost
+ 
+### 4 - MOJO? 

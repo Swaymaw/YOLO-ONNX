@@ -3,3 +3,4 @@ datasets/
 runs/
 ./dota8.yaml
 __pycache__/
+.DS_Store
